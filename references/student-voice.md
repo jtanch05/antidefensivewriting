@@ -1,42 +1,27 @@
 # Student Voice and Direct Prose
 
-Use clear, natural upper-undergraduate English: accurate and professional, without trying to sound like a consultant, marketing writer, or journal abstract. Follow the user's requested language and preserve their meaning and voice.
+Use when robotic, compressed, or defensive phrasing persists after ordinary editing. Target a capable student explaining their own work professionally.
 
-## Remove defensiveness, keep honest limits
+## Restore natural flow
 
-Remove writing that tries to excuse, praise, or certify the work instead of explaining it. Common forms include:
+Use concrete subjects, precise familiar words, and active verbs where they improve clarity. Replace strings of abstract nouns and abbreviated notes with connected prose. Vary sentence length naturally; avoid identical paragraph rhythms, canned transitions, and empty conclusions.
 
-- apologies or appeals for leniency;
-- explanations of why the student could not do more, unless the constraint itself is relevant;
-- self-congratulation such as “this report comprehensively demonstrates”;
-- claims that the work follows requirements without showing the required work;
-- repeated hedges that make a supported conclusion sound uncertain;
-- inflated assurances such as “fully robust” without evidence.
+Example:
 
-State limitations directly and proportionately. Say what was not tested, measured, observed, or established; explain which conclusion this limits. Do not hide a real weakness, but do not undermine valid results with unnecessary apologies.
+> Compressed: "Node/base methods changed together; runtime unchanged."
+>
+> Clearer: "Both node and base-station methods changed between versions. Overall runtime remained similar."
 
-## Replace general claims with useful detail
+Fluency comes from clear relationships between ideas, not extra adjectives. Keep necessary technical terms and explain them for the intended reader. Do not introduce grammar errors, slang, or artificial informality to simulate a student voice.
 
-Challenge broad claims such as:
+## Remove defensive framing
 
-- “The approach improves performance.”
-- “The system is efficient and robust.”
-- “This provides valuable insights.”
-- “The method is appropriate.”
-- “The result supports better decisions.”
+Cut appeals for leniency, self-congratulation, unsupported quality claims, and narration about satisfying the rubric. Explain a constraint only when it affects interpretation or a decision.
 
-Make the sentence answer the relevant questions: what changed, for whom or which component, compared with what, by what mechanism, under which conditions, and based on which evidence? If the evidence does not answer these questions, narrow the claim or ask the user for the missing evidence.
+State an important limitation beside the claim it qualifies. Explain its practical effect, then consolidate repetitions where the audience can still follow the reasoning. Avoid piling unrelated caveats after every positive result or weakening supported findings with repeated hedges.
 
-## Keep the language natural
+## Adapt to the medium
 
-- Prefer common, precise words over inflated synonyms.
-- Use concrete subjects and verbs; avoid strings of abstract nouns.
-- Vary sentence length naturally. Do not make every paragraph follow an identical claim-evidence-conclusion cadence.
-- Remove filler transitions and repeated summaries when the relationship between ideas is already clear.
-- Define technical terms only when the reader needs the definition; retain exact course terms where they matter.
-- Keep necessary technical detail, but explain it in plain language for the intended audience.
-- Do not add intentional grammar errors or colloquialisms to imitate a student.
+Report prose needs connected explanations. Slide text needs a clear main point and readable supporting evidence; concise labels and pseudocode remain appropriate. Keep detailed qualifications in notes only when doing so preserves the visible claim's accuracy and the assignment allows it.
 
-## Final read aloud check
-
-Check whether the prose sounds like a capable student explaining their own work. Flag sentences that sound generic, inflated, defensive, mechanically symmetrical, or more certain than the evidence. Edit those sentences without erasing the student's actual reasoning.
+Read the result as the intended audience: can they follow the point without decoding shorthand or reconstructing unstated connections? Repair those passages without adding unsupported reasoning.
